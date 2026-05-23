@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nota quod sancto concilio non est detrahendum</title>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                 <placeName>Prague</placeName>
+                 <repository>Archiv Pražského hradu</repository>
+                  <collection>Archiv Metropolitní kapituly</collection>
+                  <idno>O. 2</idno>
+               </msIdentifier> 
+               <msContents>
+                  <msItem>
+                     <author></author>
+                     <title></title>
+                  </msItem>
+                </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <p></p>
+                  </objectDesc>
+               </physDesc>  
+           </msDesc> 
+          </sourceDesc>  
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <pb n="300r"/> 
+         <p>
+            <lb n="1"/> Nota quod sacro sancto consilio no<ex>n</ex> est detrahend<ex>um</ex> patet ex
+            <lb n="2"/> multis <seg type="argument" n="1"> p<ex>ri</ex>mo ap<ex>osto</ex>li illud instituu<ex>n</ex>t et celebrarunt </seg> <seg type="argument" n="2"> s<ex>ecu</ex>ndo <ex>quia</ex>
+            <lb n="3"/> <ex>per</ex> sacru<ex>m</ex> conciliu<ex>m</ex> qua<ex>t</ex>or <ex>san</ex>cta Ewange<ex>li</ex>a quib<ex>us</ex> utitur eccl<ex>es</ex>ia
+            <lb n="4"/> su<ex>n</ex>t recepta et confirmata et m<ex>u</ex>lta alia Ewan<ex>geli</ex>a su<ex>n</ex>t ab
+            <lb n="5"/> iecta qui <ex>er</ex>go reiciu<ex>n</ex>t Sacr<ex>um</ex> concili<ex>um</ex> reiciu<ex>n</ex>t Ewan<ex>geli</ex>a </seg> <seg type="argument" n="3"> Terc<ex>i</ex>o
+            <lb n="6"/> Sacru<ex>m</ex> conciliu<ex>m</ex> solet termi<ex>n</ex>are om<ex>n</ex>es causas <seg type="nb"><ex>et</ex>difficul<ex>ta</ex>tes</seg>
+            <lb n="7"/> que i<ex>n</ex> eccl<ex>es</ex>ia <choice><orig rend="transposition-signs">&quot;insurgunt&quot; dei</orig><reg type="transposition">dei insurgunt</reg></choice> et damp<ex>na</ex>re om<ex>ne</ex>s hereses que 
+            <lb n="8"/> surgunt in eccl<ex>es</ex>ia dei </seg> <seg type="argument" n="4"> Quarto <ex>quia</ex> papa et imperator con
+            <lb n="9"/> firmav<ex>ver</ex>unt conciliu<ex>m</ex> <ex>et</ex> confirma<ex>n</ex>t confirmanda et revoca<ex>n</ex>t
+            <lb n="10"/> revocanda que f<ex>ac</ex>ta sunt in concilio </seg> <seg type="argument" n="5"> Quinto <ex>quia</ex> om<ex>ne</ex>s
+            <lb n="11"/> Reges chris<ex>ti</ex>anitatis <ex>et</ex> om<ex>ne</ex>s principes chr<ex>isti</ex>anitatis et o<ex>mne</ex>s
+            <lb n="12"/> p<ex>re</ex>lati <choice><sic>ut</sic><corr>et</corr></choice> epi<ex>scopi</ex> Cardinales et p<ex>ri</ex>mates obed<ex>iu</ex>nt co<ex>n</ex>cilio
+            <lb n="13"/> </seg> <seg type="argument" n="6"> Sexto <ex>quia</ex> nullus tam magnus qua<ex>m</ex> p<ex>arv</ex>uus qui pre
+            <lb n="14"/> sumat contradicere illis que fiunt <seg type="nb"><ex>in</ex>concilio</seg> eccl<ex>esi</ex>e
+            <lb n="15"/> nisi solus papa et Imp<ex>er</ex>ator sim<ex>u</ex>l iuncti. </seg>
+         </p>
+          
+         <p>
+            <lb n="16"/> Quod non sit communicand<ex>um</ex> <seg type="nb"><ex>sub</ex>utraque</seg> spe<ex>cies</ex> patet
+            <lb n="17"/> existis <seg type="argument" n="1"> p<ex>ri</ex>mo <ex>quia</ex> nulli laici commu<ex>ni</ex>cant sic n<ex>e</ex>c Imp<ex>erator</ex>
+            <lb n="18"/> nec aliquis Rex n<ex>e</ex>c aliquis sacerdos q<ex>ua</ex>n<ex>do</ex> no<ex>n</ex> cele
+            <lb n="19"/> brat missam <seg type="nb"><ex>in</ex>tota</seg> christianitate sed <seg type="nb"><ex>sub</ex>spe<ex>cie</ex></seg> panis
+            <lb n="20"/> t<ex>a</ex>m summit corpus chr<ex>isti</ex> se<ex>cun</ex>d<ex>u</ex>m institutio<ex>ne</ex>m eccl<ex>esi</ex>e dei
+            <lb n="21"/> </seg> <seg type="argument" n="2">Se<ex>cun</ex>do <ex>quia</ex> nullus s<ex>an</ex>c<ex>t</ex>or<ex>um</ex> doctor<ex>um</ex> quatuor dicit q<ex>u</ex>i laici
+            <lb n="22"/> d<ex>eb</ex>ent communicare sub utraque specie </seg> <seg type="argument" n="3">Tercio quia solus sa
+            <lb n="23"/> cerdos eo tempore quo dicit missam potest accipere eucharistia
+            <lb n="24"/> sub utraque specie </seg> <seg type="argument" n="4">“Quarto quia papa et tota Romana
+            <lb n="25"/> ecclesia sic tenet <ex>et</ex> no<ex>n</ex> licet nobis tenere modum 
+         
+         <pb n="301v"/>
+            <lb n="1"/> specialem contra om<ex>ne</ex>s alios chr<ex>isti</ex>anos unde August<ex>inu</ex>s
+            <lb n="2"/> Ewan<ex>geli</ex>o non cred<ex>er</ex>em nisi me eccl<ex>es</ex>ia com<ex>m</ex>overet </seg>
+         </p>
+         <p>
+            <lb n="3"/> Nota q<ex>uo</ex>d papa <seg type="nb"><ex>in</ex>die</seg> coronatio<ex>n</ex>is sue cantat missa<ex>m</ex>
+            <lb n="4"/> <ex>et</ex> comm<ex>uni</ex>cat om<ex>ne</ex>s cardinales et no<ex>n</ex> <seg type="nb"><ex>sub</ex></seg> utraque spe<ex>cie</ex> sed
+            <lb n="5"/> <seg type="nb"><ex>sub</ex>una</seg> sc<ex>ilicet</ex> s<ex>u</ex>b spe<ex>cie</ex> panis Ite<ex>m</ex> imp<ex>er</ex>ator <seg type="nb"><ex>in</ex>die</seg> corona<lb break="no"/>
+            <lb n="6"/> tionis sue c<ex>ommu</ex>nicat <ex>et</ex> no<ex>n</ex> <seg type="nb"><ex>sub</ex>utraque</seg> spe<ex>cie</ex> It<ex>em</ex> nec papa
+            <lb n="7"/> n<ex>e</ex>c im<ex>pe</ex>rator qua<ex>ndo</ex> moriu<ex>n</ex>t<ex>u</ex>r no<ex>n</ex> commu<ex>ni</ex>cant <seg type="nb"><ex>sub</ex>utraque</seg> spe<ex>cie</ex>
+            <lb n="8"/> sed sub una <note>probably a mark to identify the end of the paragraph</note></p> <p> Item expressum est in Jure canonico quod
+            <lb n="9"/> presbiter communicans et non celebrans debet stare?(unreadable) contentus
+            <lb n="10"/> in communione/communicatione laicali que fit sub specie panis Item greci qui
+            <lb n="11"/> sunt scismartici communicant sub utraque specie quibus non debemus
+            <lb n="12"/> nos conformare contra romanam ecclesiam (mark?) quia eciam consecrant
+            <lb n="13"/> in fermentato pane (mark?) contra romanam ecclesiam reluctantes
+            <lb n="14"/> propter coniugii prohibicionen (mark?) licet nec eis coniugium sit
+            <lb n="15"/> permissum queri potest quomodo debent intelligi verba christi
+         </p>
+         <p>
+            <lb n="16"/> Johannis VIo(number)(citation: Jn/Io.6.54) ubi dicitur  nis manducaveritis carnem filii (etc.) respndentur sicut
+            <lb n="17"/> intelligit ecclesia et sicut? exponit christus d(dicit?)(citation:) verba que ego
+            <lb n="18"/> loquor vobis spiritus et vita sunt ides sunt spiritualiter intelli(genda?)
+            <lb n="19"/> et quomodo spiritualite dico de fide in carnacionis et passionis
+            <lb n="20"/> ideo dicit Beatus Augustinus in Omelia Quid  preparas? ventrem credi
+            <lb n="21"/> et manducasti patet qouniam/quam? cur paulus apostolus scripsit Co-
+            <lb n="22"/> rinthiis (citation) corpus domini et sanguinem euis sumere sub
+            <lb n="23"/> utraque specie Respondetur propter fidei confirmacionem que habenda
+            <lb n="24"/> sint de illo sacramento potest eciam queri ille modus
+            <lb n="25"/> est mutatus Respondit? propter hereticos dicentes  quia sub specie
+            <lb n="26"/> panis esset corpus sine sanguine et sub specie vini
+            <lb n="27"/> esset sangwis sine corpore quia verba consecracionis panis
+            <lb n="28"/> sonantis solum de corpore et verba  consecracionis calicis
+            <lb n="29"/> solum sonant de sanguine Concurrunt etiam alie cause ut
+            <lb n="30"/> calicis domini debita sonservacio in yeme(=hieme) et in estate
+            <lb n="31"/> et debita ministratio dequa multa dici posunt sed non
+            <lb n="32"/> sonantis non intelligentibus alii vomitum alii per-
+            <lb n="33"/> fundunt se et alias res alii non posunt pati odorem
+            <lb n="34"/> vini Et reuera/revera per campas uel/vel in equo uel/vel in
+            <lb n="35"/> collo ferre sanguinem domini est quasi abhomibabile
+         </p>
+         <p>
+            <lb n="36"/> Et? in quibusdam terris non possunt habere vinum nisi cum
+            <lb n="37"/> labore quid/quidam? vix sufficitis sacerdoti promissa Unde
+            <lb n="38"/> greci dant populo medicacione pro unio in quibusdam locis
+            
+         <pb n="301r"/> 
+            <lb n="1"/> cum vinum servare non poterant servabant
+            <lb n="3"/> duas/unas et postea ?coxerunt in aqua et vocabant
+            <lb n="4"/> illud vinum et cum illo celebrant et quidam
+            <lb n="5"/> intuixerunt pannos lineos in vino
+            <lb n="6"/> et cum defecit eis vinum laverunt pannos 
+            <lb n="7"/> illos et locionem illam vocabant vinum
+            <lb n="8"/> et miscuerunt cum aqua et cum illo celebrant
+            <lb n="9"/> ut patet exdecrete manifeste quomodo
+            <lb n="10"/> igitur populus ibi potest communicare sub utraque
+            <lb n="11"/> specie ubi quasi nichil est de vino et qui
+            <lb n="12"/> nesciunt hec statim imputant malicie
+            <lb n="13"/> sacerdotum et pigricie eorum quasi nullus
+            <lb n="14"/> possit corigere sacerdotes nec papa 
+            <lb n="15"/> nec etiam imperator nec Reges nec
+            <lb n="16"/> principes christianitatis.
+          </p>        
+         
+         
+      </body>
+  </text>
+</TEI>
