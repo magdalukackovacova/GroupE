@@ -23,7 +23,7 @@ This project is developed by **Group E** of the ANTIDOTE initiative during a wor
 
 ---
 
-##**Contributors**
+**Contributors**
 
 ANTIDOTE Group E — Bratislava Workshop 2026
 
