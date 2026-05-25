@@ -6,31 +6,32 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Wien,ÖNB,4941,f.166r-167v,240r</title>
+            <title>4941</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p></p>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
                <msIdentifier>
-                  <settlement>Wien</settlement>
-                  <repository>...</repository>
-                  <idno>...</idno>
+                 <placeName>Wien</placeName>
+                 <repository>Austrian National Library</repository>
+                  <collection></collection>
+                  <idno>4941</idno>
                </msIdentifier> 
                <msContents>
                   <msItem>
-                     <author>...</author>
-                     <title>...</title>
+                     <author></author>
+                     <title></title>
                   </msItem>
-               </msContents>
+                </msContents>
                <physDesc>
                   <objectDesc>
-                     <p>...</p>
+                     <p></p>
                   </objectDesc>
                </physDesc>  
-            </msDesc> 
-         </sourceDesc>
+           </msDesc> 
+          </sourceDesc>  
       </fileDesc>
    </teiHeader>
    <text>
