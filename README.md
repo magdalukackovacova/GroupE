@@ -1,4 +1,4 @@
-[file (1).md](https://github.com/user-attachments/files/28223261/file.1.md)
+(https://github.com/user-attachments/files/28223261/file.1.md)
 # Nota quod sancto concilio non est detrahendum — Manuscript Visualisation
 
 A digital humanities project visualising several manuscripts containing Johann Hildessen's treatise *Nota quod sancto concilio non est detrahendum*.
