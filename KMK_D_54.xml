@@ -84,7 +84,7 @@
             <lb n="25"/> <ex>christi</ex>anos 
                          <!-- graphically separated -->
                          Unde 
-                         <quote><!-- we should identify quotation --> 
+                         <quote source="Augustine?"><!-- we should identify quotation --> 
                          Aug<ex>ustinus</ex> Ew<ex>a</ex>n<ex>geli</ex>o no<ex>n</ex> cred<ex>er</ex>em nisi me eccl<ex>es</ex>ia com<ex>m</ex>ov<ex>er</ex>et</quote>
             </seg>
          </p>
@@ -124,14 +124,14 @@
                quomodo de<ex>be</ex>nt intelligi v<ex>erb</ex>a <ex>christ</ex>i 
                Joha<ex>n</ex>nis VIo <!-- citation below: Jn/Io.6.54 --> 
          <pb n="14v"/>
-            <lb n="1"/>ubi d<ex>icitu</ex>r <quote><!-- Jn/Io.6.54 -->n<ex>isi</ex> 
+            <lb n="1"/>ubi d<ex>icitu</ex>r <quote source="John 6.54">n<ex>isi</ex> 
             <!-- underlined, maybe indicating all three words are heavily abbreviated? --> man<ex>ducaveritis</ex> car<ex>nem</ex> fi<ex>lii</ex>
                 </quote> 
             res<ex>pon</ex>de<ex>n</ex>tum <unclear type="unclear">?<!-- unclear; Domini datum? --></unclear>
             sic<ex>ut</ex> intelligit eccl<ex>es</ex>ia <ex>et</ex> 
             <unclear type="unclear">sd? <!-- unclear --></unclear>
             <lb n="2"/>exponit <ex>christ</ex>us d<ex>icit</ex>  
-            <quote><!-- citation start Jn/Io.6.64 --> Verba que ego loquor vobis 
+            <quote source="John 6.64">Verba que ego loquor vobis 
             sp<ex>irit</ex>us 
             <lb n="3"/>et vita sunt <!-- cit end -->
                 </quote>
@@ -143,11 +143,11 @@
             <lb n="4"/> <!-- graphically separated, new paragraph? --> dico de fide incarnat<ex>i</ex>onis et passionis i<ex>de</ex>o dicit <!-- authority cited -->) B<ex>ea</ex>tus Aug<ex>ustinus</ex>  
             <lb n="5"/> 
                 <!-- aparently from Peter fo Lombardy Liber 4 Distinctio 9 and commonly attributed to Augustine https://www.magistersententiarum.com/ouvrages/magister-bandinus/liber-iv/distinctio-ix; ut quid paras ventrem et dentem? crede et manducasti -->
-                <quote>i<ex>n</ex> omelia Quid  p<ex>repar</ex>as ventrem crede et ma<ex>n</ex>ducasti </quote>
+                <quote source="Peter Lombard?">i<ex>n</ex> omelia Quid  p<ex>repar</ex>as ventrem crede et ma<ex>n</ex>ducasti </quote>
             e<ex>tiam</ex> <!-- Cappeli 115 -->)
             <lb n="6"/>P<ex>ate</ex>t 
             <unclear type="unclear">qouniam?<!-- abbreviated, quam? --></unclear>/ 
-            cur <!-- authority --> Ap<ex>osto</ex>lus paul<ex>u</ex>s <!-- different word order -->) s<ex>cri</ex>psit Corinthiis <quote><!-- citation, 1 Cor.6.13? really not sure --> corpus
+            cur <!-- authority --> Ap<ex>osto</ex>lus paul<ex>u</ex>s <!-- different word order -->) s<ex>cri</ex>psit Corinthiis <quote source="Cor. 6.13?"><!-- citation, 1 Cor.6.13? really not sure --> corpus
             <lb n="7"/>d<ex>o</ex>m<ex>in</ex>i <ex>et</ex> sanguinem euis sum<ex>ere</ex> sub utra<ex>que</ex> spe<ex>cie</ex>
                 </quote> 
             </p> <p> R<ex>espo</ex>ndet<ex>ur</ex> p<ex>ro</ex>pt<ex>er</ex> 
