@@ -97,7 +97,16 @@ text-underline-offset:3px
 text-align: center;
             
             </outputRendition>
-        </model>
+</model>
+            <model behaviour="heading">
+                <param name="content" value="author[not(@type)]"/>
+                <outputRendition xml:space="preserve">
+                
+                font-size: 24px;
+text-align: center;
+          </outputRendition>
+            </model>
+        </modelSequence>
                 </elementSpec>
                 <elementSpec ident="lb" mode="change">
                     <modelSequence>
